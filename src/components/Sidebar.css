@@ -1,0 +1,19 @@
+.sidebar {
+  background-color: #F7F9FA;
+  width: 25%;
+  padding: 45px;
+  height: 100vh;
+}
+
+.menu {
+  padding-left: 0;
+  margin: 50px 0 0;
+  list-style-type: none;
+  font-size: 14px;
+}
+
+.menu__item {
+  font-weight: bold;
+  color: #637282;
+  margin: 10px 0;
+}
